@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Magfi](https://magfi.co) and [MagfiAds](https://magfiads.com)
 
-- 🌱 I’m currently learning **svelte, go**
+- 🌱 I’m currently learning **go**
 
 - 📫 How to reach me **kocaayanatakan@gmail.com**
 
